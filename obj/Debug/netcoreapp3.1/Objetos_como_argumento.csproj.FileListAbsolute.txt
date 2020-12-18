@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Objetos_como_argumento\bin\Debug\netcoreapp3.1\Objetos_como_argumento.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Objetos_como_argumento\bin\Debug\netcoreapp3.1\Objetos_como_argumento.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Objetos_como_argumento\bin\Debug\netcoreapp3.1\Objetos_como_argumento.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Objetos_como_argumento\bin\Debug\netcoreapp3.1\Objetos_como_argumento.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Objetos_como_argumento\bin\Debug\netcoreapp3.1\Objetos_como_argumento.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Objetos_como_argumento\bin\Debug\netcoreapp3.1\Objetos_como_argumento.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Objetos_como_argumento\obj\Debug\netcoreapp3.1\Objetos_como_argumento.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Objetos_como_argumento\obj\Debug\netcoreapp3.1\Objetos_como_argumento.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Objetos_como_argumento\obj\Debug\netcoreapp3.1\Objetos_como_argumento.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Objetos_como_argumento\obj\Debug\netcoreapp3.1\Objetos_como_argumento.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Objetos_como_argumento\obj\Debug\netcoreapp3.1\Objetos_como_argumento.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Objetos_como_argumento\obj\Debug\netcoreapp3.1\Objetos_como_argumento.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Objetos_como_argumento\obj\Debug\netcoreapp3.1\Objetos_como_argumento.genruntimeconfig.cache
